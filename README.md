@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HansiUpekka
-- 👀 I’m interested in coding
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java , React JS, C, C++, JS, PHP, HTML, CSS, python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
